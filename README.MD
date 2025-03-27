@@ -1,6 +1,6 @@
 Luis Velasquez  
 Carnet 24011341  
-Tarea 15 - Curso JavaScript Testing (P)  
+Tarea 15 - Curso JavaScript Testing  
 
 # INSTRUCCIONES
 
